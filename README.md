@@ -1,3 +1,14 @@
+used create-react-app
+netlify.com
+create new proj, auth w github
+
+settings:
+
+npm run build, prepares static files in the /build directory
+
+
+---------------
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>

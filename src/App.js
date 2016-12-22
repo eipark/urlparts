@@ -57,6 +57,7 @@ class App extends Component {
           <div className="url-analyzer section">
             <div className='section-inner'>
               <h2>URL Parts</h2>
+              protocol, scheme, tld........ go by spec
             </div>
           </div>
           <div className="language-analyzer section">
